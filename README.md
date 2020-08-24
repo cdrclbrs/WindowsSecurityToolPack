@@ -215,12 +215,4 @@ Table of Contents
 * [SpecterOps - @SpecterOps](https://twitter.com/SpecterOps)
 
 
-## [↑](#table-of-contents) Contributing
-If you want to contribute a technique please use the following template. You are allowed to link to multiple procedures and articles for each tool
-```
-### [T1234 - Name of Technique](https://attack.mitre.org/techniques/T1234/)
-* [github-repo](https://github.com/username/github-repo) - Description from repo. Copypaste is allowed.
-  * [Procedure](https://link.to.procedure.com)
-  * [Article](https://link.to.article.com)
-
 ```
