@@ -7,7 +7,7 @@ This list is for anyone wishing to learn offensive Windows security. The list wi
 
 The tools are categorized according to Adversarial Tactics and Techniques based on [Mitre ATT&CK](https://attack.mitre.org/wiki/Main_Page). Some tools fit several technqiues and some doesn't quite fit anywhere. I appreciate any help with finding the right tactics and techniques.
 
-You can contribute by sending pull requests, create issues with suggestions or write to the autor [@chryzsh](https://twitter.com/chryzsh). I have made a template for adding new tools here -> [Contributing](#-contributing)
+You can contribute by sending pull requests, create issues with suggestions or write to the autor [@chryzsh](https://twitter.com/chryzsh). 
 
 
 Table of Contents
